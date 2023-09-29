@@ -5,7 +5,7 @@ import json # encode the blocks
 from flask import Flask, jsonify 
 
 
-building a blockchain
+#building a blockchain
 class Blockchain:
     def __init__(self):
         self.chain= [] #initialzation of block
